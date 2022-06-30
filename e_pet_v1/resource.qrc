@@ -1,0 +1,43 @@
+<RCC>
+    <qresource prefix="/">
+        <file>resource/kitchen/background1.webp</file>
+        <file>resource/mainwindow/whitebackground.png</file>
+        <file>resource/playroom/back.png</file>
+        <file>resource/playroom/bedBt.png</file>
+        <file>resource/playroom/zzz.png</file>
+        <file>resource/basic/active.png</file>
+        <file>resource/basic/health.png</file>
+        <file>resource/basic/hunger.png</file>
+        <file>resource/basic/mood.png</file>
+        <file>resource/petimage/dead_dog.png</file>
+        <file>resource/petimage/happy_dog.png</file>
+        <file>resource/petimage/hungry_dog.png</file>
+        <file>resource/petimage/normal_dog.png</file>
+        <file>resource/petimage/unhappy_dog.png</file>
+        <file>resource/basic/mouse.png</file>
+        <file>resource/petimage/happy_dog_r.png</file>
+        <file>resource/mainwindow/08922f55a496de1e173c235f3170b17.jpg</file>
+        <file>resource/playroom/background_hd.png</file>
+        <file>resource/basic/food.png</file>
+        <file>resource/bathroom/bathroom.jpg</file>
+        <file>resource/playroom/food.jpg</file>
+        <file>resource/petimage/cleaned_dog.png</file>
+        <file>resource/petimage/dirty_dog.png</file>
+        <file>resource/petimage/greedy_dog.png</file>
+        <file>resource/petimage/sleeping_dog.png</file>
+        <file>resource/bathroom/brush.png</file>
+        <file>resource/bathroom/bubble.png</file>
+        <file>resource/bathroom/shower_head.png</file>
+        <file>resource/kitchen/chicken_leg.png</file>
+        <file>resource/kitchen/sausage.png</file>
+        <file>resource/kitchen/vegetable.png</file>
+        <file>resource/playroom/board.png</file>
+        <file>resource/basic/walking.png</file>
+        <file>resource/gameimg/0.bmp</file>
+        <file>resource/gameimg/1.bmp</file>
+        <file>resource/gameimg/3.bmp</file>
+        <file>resource/gameimg/4.bmp</file>
+        <file>resource/gameimg/5.bmp</file>
+        <file>resource/gameimg/10.bmp</file>
+    </qresource>
+</RCC>
